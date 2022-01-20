@@ -1,0 +1,23 @@
+    .img-responsive {
+        height: 250px;
+        width: 350px;
+        border-radius: 4px;
+        box-shadow: 0px 2px 8px 2px rgb(0, 0, 0, .5);
+    }
+    
+    .btn-group .btn {
+        margin: 5px 0px 10px;
+    }
+    /*
+.btn-group .btn:active,
+.btn-group .btn:focus {
+
+}  */
+    
+    .row .text {
+        margin-bottom: 10px;
+    }
+    
+    ul li a {
+        margin-bottom: 6.5px;
+    }
